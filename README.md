@@ -1,3 +1,4 @@
 # git_courses
-for practice on git &amp; github
+for practice on git & github
+keep continue
 ## projects notes 
